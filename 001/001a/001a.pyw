@@ -3,7 +3,7 @@
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # 001a.pyw
-# Version 001 (2024-03-19)
+# Version 001 - (2024-03-19)
 
 import sys
 from PyQt6.QtWidgets import *
